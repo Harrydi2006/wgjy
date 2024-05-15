@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'May 18, 2024',
+  birthdate: 'May 15, 2024',
   name: '王郭景颐'
 };
 
