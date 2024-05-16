@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['生日', '快乐！', config.name],
+      strings: ['生日快乐！', config.name],
       charSize: 30,
       charSpacing: 35,
       lineHeight: 40,
